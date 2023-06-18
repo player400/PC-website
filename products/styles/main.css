@@ -1,0 +1,117 @@
+
+html>body>footer								
+{
+width:100%;
+height:90px;
+margin: 0px;
+display: block;
+position:fixed;
+top: 0px;
+left: 0px;
+background-color: transparent;
+background-color: rgba(0, 0, 0, 0.9); 
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3332FA32,endColorstr=#3332FA32); 
+valign:middle;
+text-decoration: none;
+font-size: 20px;
+font-weight: bold;
+}
+
+
+
+body	
+{									
+padding: 0;
+margin: 0;
+background:#fff;
+}
+
+
+
+
+.jeden										
+{
+width: 100%;
+background: #808080;
+font-family:Impact;
+background-color: transparent;
+background-color: rgba(134, 140, 140, 0.6); 
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3332FA32,endColorstr=#3332FA32); 
+}
+
+
+
+.dwa	
+{	
+height:75%;								
+width: 100%;
+background: #000000;
+font-family:Arial;
+background-color: transparent;
+background-color: rgba(0, 0, 0, 0.9);  
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#3332FA32,endColorstr=#3332FA32);
+color: white;
+font-size: 20;
+}
+
+
+
+.bold										
+{
+font-size:40;
+font-family:Arial;
+}
+
+.text
+{
+width:100%;
+background:#fff;
+font-family:Arial;
+color:white;
+height:75%;
+font-size: 20;
+}
+
+.kil
+{
+
+align: center;
+}
+
+.button
+{
+font-family:Arial;
+float:right;
+color:white;
+}
+
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+font-weight: bold;
+}
+
+.more
+{
+valign:middle;
+height:30;
+color:#1E90FF;
+font-face:Arial;
+text-decoration:none;
+}
+  
+a{
+text-decoration:none;
+}
+
+.fajnydiv
+{
+}
